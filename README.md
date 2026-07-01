@@ -203,9 +203,3 @@ I independently developed the complete project, including:
 - Integrate XGBoost and LightGBM for performance comparison.
 - Build an interactive price prediction dashboard.
 - Automate the complete preprocessing and prediction pipeline.
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
